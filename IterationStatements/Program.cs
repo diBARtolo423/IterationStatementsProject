@@ -39,8 +39,9 @@ namespace IterationStatements
                 // Increment num by 1
                 num++;
                 // Then add num to the collection numbers
+                numbers.Add(num);
                 //HINT: copy how this was done in the do while loop
-             
+
 
             }
 
